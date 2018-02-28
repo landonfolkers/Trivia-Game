@@ -1,0 +1,11 @@
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/obj/Debug/netcoreapp2.0/TriviaGame.csprojResolveAssemblyReference.cache
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/obj/Debug/netcoreapp2.0/TriviaGame.csproj.CoreCompileInputs.cache
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/obj/Debug/netcoreapp2.0/TriviaGame.AssemblyInfoInputs.cache
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/obj/Debug/netcoreapp2.0/TriviaGame.AssemblyInfo.cs
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/bin/Debug/netcoreapp2.0/TriviaGame.deps.json
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/bin/Debug/netcoreapp2.0/TriviaGame.runtimeconfig.json
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/bin/Debug/netcoreapp2.0/TriviaGame.runtimeconfig.dev.json
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/bin/Debug/netcoreapp2.0/TriviaGame.dll
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/bin/Debug/netcoreapp2.0/TriviaGame.pdb
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/obj/Debug/netcoreapp2.0/TriviaGame.dll
+/Users/landonfolkers/Projects/TriviaGame/TriviaGame/obj/Debug/netcoreapp2.0/TriviaGame.pdb

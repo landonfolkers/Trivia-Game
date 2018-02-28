@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{30CB7C4C-D7BF-40A9-8560-32998C345421}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../NumberGenerator/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="13" />
+      <File FileName="../../NumberGenerator/Program.cs" Line="17" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/landonfolkers/Projects/TriviaGame/TriviaGame/Program.cs" relfile="Program.cs" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TriviaGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

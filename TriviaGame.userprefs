@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{939C2EF3-4266-4168-8B2B-B5BD6A2BC5C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriviaGame/Program.cs">
+    <Files>
+      <File FileName="TriviaGame/Program.cs" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TriviaGame" expanded="True">
+            <Node name="TriviaGame" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/landonfolkers/Projects/TriviaGame/TriviaGame/Program.cs" relfile="TriviaGame/Program.cs" line="14" column="1" />
+      <Breakpoint file="/Users/landonfolkers/Projects/TriviaGame/TriviaGame/Program.cs" relfile="TriviaGame/Program.cs" line="27" column="1" />
+      <Breakpoint file="/Users/landonfolkers/Projects/TriviaGame/TriviaGame/Program.cs" relfile="TriviaGame/Program.cs" line="2" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TriviaGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
