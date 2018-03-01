@@ -25,7 +25,9 @@ namespace TriviaGame
 
             Random rnd = new Random();
 
-            Console.WriteLine(questions[rnd.Next(0, 2)]);
+            string question = questions[rnd.Next(0, 2)];
+
+            Console.WriteLine(question);
 
         }
         static void getAppInfo()
